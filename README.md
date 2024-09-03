@@ -15,10 +15,11 @@
 
 * **Automated information-logical system for hospital;** (Go, PostgreSQL, Typescript, React, CSS)
 * **Telegram-bot that mimics talking to Niccolò Machiavelli;** (Go, PostgreSQL)
+* **A CLI tool to manage GitHub issues efficiently from users' terminal;** (Go)
 * **Program for interacting with MS Access DataBase via windows-forms;** (C#, MS Access)
 * **Online-shop for selling and buying farm products;** (C#, MySQL)
+* **Program that encrypts and decrypts users' messages using Vigenère cipher.** (Go)
 * **An algorithm for configuring random passwords;** (Go)
-* **Program that encrypts and decrypts users' messages using Vigenère cipher** (Go)
 
 ### Languages and Tools:
 
