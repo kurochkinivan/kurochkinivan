@@ -15,6 +15,7 @@
 
 * **Automated information-logical system for hospital;** (Go, PostgreSQL, Typescript, React, CSS)
 * **Telegram-bot that mimics talking to Niccolò Machiavelli;** (Go, PostgreSQL)
+* **REST API for managing notes with JWT authentication, using PostgreSQL db and deployed via Docker;**  (Go, PostgreSQL)
 * **A CLI tool to manage GitHub issues efficiently from users' terminal;** (Go)
 * **Program for interacting with MS Access DataBase via windows-forms;** (C#, MS Access)
 * **Online-shop for selling and buying farm products;** (C#, MySQL)
