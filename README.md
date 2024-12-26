@@ -8,8 +8,6 @@
 
 * **GoLang;**
 * **PostgreSQL, SQL;**
-* **React, TypeScript;**
-* **HTML, CSS.**
 
 ### I designed and created:
 
