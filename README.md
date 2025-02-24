@@ -11,6 +11,8 @@
 
 ### I designed and created:
 
+* **Habit Tracker - mobile app for tracking habits;** (Go, PostgreSQL)
+* **Concurrent web-crawler;** (Go) 
 * **Automated information-logical system for hospital;** (Go, PostgreSQL, Typescript, React, CSS)
 * **Telegram-bot that mimics talking to Niccolò Machiavelli;** (Go, PostgreSQL)
 * **REST API for managing notes with JWT authentication, using PostgreSQL db and deployed via Docker;**  (Go, PostgreSQL)
