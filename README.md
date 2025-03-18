@@ -11,7 +11,7 @@
 
 ### I designed and created:
 
-* **Meet - backend for dating app;** (Go, PostgreSQl (+PostGIS), S3, Docker)
+* **Meet - backend for dating app;** (Go, PostgreSQl (+PostGIS), Redis, S3, Docker)
 * **Habit Tracker - mobile app for tracking habits;** (Go, PostgreSQL, Docker)
 * **Concurrent web-crawler;** (Go) 
 * **Automated information-logical system for hospital;** (Go, PostgreSQL, Docker, Typescript, React, CSS)
