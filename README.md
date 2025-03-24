@@ -6,8 +6,9 @@
 
 ### My main technology stack:
 
-* **GoLang;**
-* **PostgreSQL, SQL;**
+* **Go;**
+* **PostgreSQL, Redis;**
+* **Docker, AWS;**
 
 ### I designed and created:
 
