@@ -9,7 +9,7 @@
 * **Go;**
 * **PostgreSQL, Redis;**
 * **Docker, AWS;**
-* **REST API, gRPC**
+* **REST API, gRPC.**
 
 ### I designed and created:
 
