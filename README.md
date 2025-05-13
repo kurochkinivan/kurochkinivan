@@ -13,9 +13,10 @@
 
 ### Проекты, которые я разработал и реализовал:
 
+* LoadBalancer - программа, реализующая балансировку нагрузки на пул бэкендов, ограничение трафика для клиентов и предоставляющая API для взаимодействия с клиентами (Go, PostgrteSQL, Docker, Concurrency)
 * Meet — бэкенд для приложения знакомств, основанный на микросервисной архитектуре (Go, PostgreSQL (+PostGIS), Redis, AWS S3, Docker, gRPC);
 * Habit Tracker — мобильное приложение для отслеживания привычек (Go, PostgreSQL, Docker);
-* Конкурентный веб-краулер (Go);
+* Конкурентный веб-краулер (Go, Concurrency);
 * Автоматизированная информационная система для больницы (Go, PostgreSQL, Docker, TypeScript, React, CSS);
 * Телеграм-бот, имитирующий общение с Никколо Макиавелли (Go, PostgreSQL);
 * REST API для управления заметками (Go, PostgreSQL, JWT, Docker);
@@ -27,7 +28,7 @@
 
 ### Языки и инструменты:
 
-![goLang](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white) ![postgresql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white) ![git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) ![REST API](https://img.shields.io/badge/REST%20API-0078D7.svg?style=for-the-badge&logo=https://keenethics.com/wp-content/uploads/2022/01/rest-api-1.svgf)
+![goLang](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white) ![postgresql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) ![REST API](https://img.shields.io/badge/REST%20API-0078D7.svg?style=for-the-badge&logo=https://keenethics.com/wp-content/uploads/2022/01/rest-api-1.svgf)
 
 ### Социальные сети:
 
