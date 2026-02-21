@@ -11,20 +11,20 @@
 * **Docker, AWS, Git, Linux;**
 * **REST API, gRPC.**
 
-### Мои проекты:
+### Наиболее существенные проекты
 
-* LoadBalancer - программа, реализующая балансировку нагрузки на пул бэкендов, ограничение трафика для клиентов и предоставляющая API для взаимодействия с клиентами (Go, PostgrteSQL, In-Memory cache, Docker, Concurrency)
-* Meet — бэкенд для приложения знакомств, основанный на микросервисной архитектуре (Go, PostgreSQL (+PostGIS), Redis, AWS S3, Docker, gRPC);
-* Habit Tracker — мобильное приложение для отслеживания привычек (Go, PostgreSQL, Docker);
-* Конкурентный веб-краулер (Go, Concurrency);
-* Автоматизированная информационная система для больницы (Go, PostgreSQL, Docker, TypeScript, React, CSS);
-* Телеграм-бот, имитирующий общение с Никколо Макиавелли (Go, PostgreSQL);
-* REST API для управления заметками (Go, PostgreSQL, JWT, Docker);
-* CLI-утилита для эффективного управления задачами GitHub из терминала пользователя (Go);
-* Программа для шифрования и дешифрования сообщений с использованием шифра Виженера (Go);
-* Алгоритм генерации случайных паролей (Go).
-* Программа для взаимодействия с базой данных MS Access через Windows Forms (C#, MS Access);
-* Интернет-магазин для продажи сельскохозяйственной продукции (C#, MySQL);
+| Год | Проект | Тип | Стек |
+|-----|--------|-----|------|
+| 2026 | [device-reporter](https://github.com/kurochkinivan/device-reporter) — сервис для парсинга TSV-файлов с данными устройств, сохранения в PostgreSQL и генерации PDF-отчётов | CLI | Go, Concurrency |
+| 2025 | [load-balancer](https://github.com/kurochkinivan/load-balancer) — обратный прокси с балансировкой нагрузки, Token Bucket rate limiting и REST API для управления клиентами | CLI + REST API | Go, PostgreSQL, Docker, Concurrency |
+| 2025 | [meet](https://github.com/kurochkinivan/Meet_REST_API) — бэкенд приложения для знакомств на микросервисной архитектуре | REST API | Go, PostgreSQL, Redis, AWS S3, OAuth, Docker |
+| 2025 | [logayzer](https://github.com/kurochkinivan/logayzer) — анализатор NGINX-логов с генерацией отчётов в Markdown, AsciiDoc и JSON | CLI | Go, Concurrency |
+| 2025 | [flam3](https://github.com/kurochkinivan/flam3) — генератор изображений фрактального пламени на основе Chaos Game с 35 трансформациями | CLI | Go, Concurrency |
+| 2025 | [maze](https://github.com/kurochkinivan/maze) — генерация лабиринтов (DFS, Prim) и поиск пути (A*, Dijkstra) | CLI | Go |
+| 2025 | [crawler](https://github.com/kurochkinivan/concurrent-crawler) — многопоточный веб-краулер | CLI | Go, Concurrency |
+| 2024 | [note-taker](https://github.com/kurochkinivan/note-taker) — REST API управления заметками с интеграцией Yandex Speller | REST API | Go, PostgreSQL |
+| 2024 | [Hospital Website](https://github.com/kurochkinivan/Hospital-website) — АИС «Запись на приём к врачу» | GUI + REST API | Go, PostgreSQL, TypeScript |
+| 2024 | [IssueBuddy](https://github.com/kurochkinivan/IssueBuddy) — CLI-утилита для управления GitHub Issues из терминала | CLI | Go |
 
 ### Языки и инструменты:
 
